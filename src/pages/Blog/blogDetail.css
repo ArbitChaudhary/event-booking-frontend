@@ -1,0 +1,381 @@
+/* Blog Detail Styles */
+.blogDetail-container-side {
+    display: flex;
+    margin: 2% 7%;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  
+  .blogDetail-container {
+    width: 100%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    margin-top: 2rem;
+  }
+  
+  .blogDetail-image {
+    width: 100%;
+    height: 32vw;
+    object-fit: cover;
+  }
+  
+  .blogDetail-Container {
+    padding: 2rem;
+    display: flex;
+  }
+  
+  .blogDetail-comment {
+    padding: 0.2rem;
+    border-radius: 50%;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .blogDetail-comment p {
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+  }
+  .blogDetail-comment-share div {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .blogDetail {
+    margin-left: 1.5rem;
+    border-bottom: 1px solid black;
+  }
+  
+  .blogDetail-date {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .blogDetail-title {
+    font-size: 35px;
+    font-weight: 700;
+  }
+  
+  .blogDetail-subTitle {
+    font-size: 28px;
+    font-weight: 600;
+  }
+  
+  .blogDetail p {
+    font-size: 15px;
+  }
+  
+  .blogDetail-icons {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .blogDetail-tags {
+    cursor: pointer;
+  }
+  
+  .BlogDetail-tags-icons {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0 0 1.5rem;
+    align-items: center;
+  }
+  
+  .Blog-tag {
+    font-weight: 500;
+  }
+  
+  .blogDetail-iconsList {
+    font-size: 20px;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .BlogDetail-tags {
+    display: flex;
+    font-size: 18px;
+    gap: 0.3rem;
+  }
+  
+  .blogDetail-by-img {
+    border-radius: 50%;
+    padding: 0.3rem;
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .blogDetail-by-container {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    padding: 2rem;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);;
+    border-radius: 30px;
+    margin-top: 2rem;
+  }
+  
+  .blogDetail-by-name {
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .blogDetail-by-container p {
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+  }
+  
+  .blogDetail-comment-head {
+    font-size: 30px;
+    font-weight: 600;
+    border-bottom: 2px solid black;
+    margin-top: 2vw;
+  }
+  
+  .users-comment {
+    display: flex;
+    gap: 1.5rem;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+    align-items: center;
+  }
+  
+  .blogDetail-comments {
+    margin-top: 3rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 10px;
+  }
+  
+  .blogDetail-comment-head {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .users-comment {
+    margin-bottom: 1.5rem;
+  }
+  
+  .img-and-name {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .comment-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .user-days-name {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .user-days {
+    font-size: 14px;
+  }
+  
+  .user-name {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  /* Blog Section Styles */
+  .blog-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .blog-ads {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 800px;
+  }
+  
+  .blog-post {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .blog-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .blog-content {
+    margin-top: 10px;
+  }
+  
+  .blog-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .comment-views {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .blog-icon {
+    margin-right: 5px;
+  }
+  
+  .comment-count {
+    font-size: 14px;
+  }
+  
+  p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .author-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .blog-date {
+    font-size: 12px;
+    margin-right: 5px;
+  }
+  
+  .author {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .author-name {
+    font-size: 12px;
+  }
+  
+  .read-more {
+    margin-top: 10px;
+  }
+  
+  .blog-link {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: #333333;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Add styling for mobile and responsive layout */
+  @media (max-width: 600px) {
+    .blog-container {
+      grid-template-columns: 1fr;
+    }
+  
+    .blog-ads {
+      max-width: 100%;
+    }
+  
+    /* Blog Detail Styles */
+    .blogDetail-container-side {
+      flex-direction: column;
+      margin: 2% 5%;
+      gap: 1rem;
+    }
+  
+    .blogDetail-container {
+      margin-top: 1.5rem;
+    }
+  
+    .blogDetail-image {
+      height: auto;
+    }
+  
+    .blogDetail-Container {
+      padding: 1.5rem;
+    }
+  
+    .blogDetail-by-container {
+      padding: 1.5rem;
+      font-size: 14px;
+      gap: 1rem;
+    }
+  
+    .blogDetail-by-name {
+      font-size: 18px;
+    }
+  
+    .comment-image {
+      width: 40px;
+      height: 40px;
+    }
+  
+    .comment-details {
+      font-size: 14px;
+    }
+  
+    .comment-name {
+      font-size: 16px;
+    }
+  
+    .comment-time {
+      font-size: 12px;
+    }
+  
+    .comment-content {
+      font-size: 14px;
+    }
+  
+    .add-comment {
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+  
+    .add-comment-image {
+      width: 30px;
+      height: 30px;
+    }
+  
+    .add-comment-input {
+      font-size: 14px;
+    }
+  
+    .add-comment-btn {
+      padding: 0.3rem 0.7rem;
+    }
+  }
+  

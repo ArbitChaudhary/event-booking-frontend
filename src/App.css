@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+.App{
+    overflow-x: hidden;
+    width: 100%;
+}
+::-webkit-scrollbar{
+    width: 0;
+    
+}
+::-webkit-scrollbar-thumb{
+    background: rgb(19, 19, 140);
+    border-radius: 3px;
+
+}
+::-webkit-scrollbar-track{
+    background: rgb(255, 0, 0);
+}

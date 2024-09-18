@@ -1,0 +1,253 @@
+.blog-ads{
+    width: 60vw;
+    height: 6vw;
+    margin-top: 1rem;
+    object-fit: cover;
+    margin-left: 15%;
+}
+.BlogSide{
+    display: flex;
+    margin: 0 7%;
+    gap: 1rem;
+    justify-content: center;
+}
+.blog-container{
+    margin: 2rem 0;
+    width: 95%;
+    border: 1px solid black;
+}
+.blog-image{
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+    cursor: pointer;
+}
+.blog{
+    padding: 2vw 2vw 0 2vw ;
+}
+.blog-icon{
+    margin-top: 2px;
+}
+.blog p{
+    padding-bottom: 2vw;
+    border-bottom: 1px solid black;
+}
+.blog-title{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.comment-views{
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+}
+.comment{
+    align-items: center;
+    display: flex;
+    gap: 0.5vw;
+    cursor: pointer;
+}
+.date-by{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.author{
+    height: 55px;
+    width: 55px;
+    object-fit: contain;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.author-name{
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.blog-date{
+    /* text-transform: uppercase; */
+    font-size: 18px;
+}
+.by-read{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw;
+    flex-flow: wrap;
+}
+.read{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+    color: blue;
+    align-items: center;
+    text-decoration: none;
+}
+.blog-link{
+    text-decoration: none;
+    color: rgb(16, 156, 103);
+}
+.next-prev{
+    display: flex;
+    align-items: center;
+    /* margin-left: 7%; */
+    width: 60%;
+    justify-content: center;
+    gap: 2vw;
+    font-size: 18px;
+}
+.blog-prev{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.pages-count{
+    display: flex;
+    list-style: none;
+    gap: 2vw;
+}
+.pages-count li{
+    cursor: pointer;
+    font-size: 15px;
+}
+@media only screen and (max-width:992px){
+    .BlogSide{
+        display: grid;
+        justify-content: center;
+    }
+    .blog-container{
+        width: 99%;
+    }
+}
+
+@media only screen and (max-width:400px){
+    .blog-container{
+        width:20rem;
+        margin:2%;
+    }
+    .blog-image{
+        width: 100%;
+    }
+}
+
+
+/* blog.css */
+
+.blog-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .blog-ads {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 800px;
+  }
+  
+  .blog-post {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .blog-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .blog-content {
+    margin-top: 10px;
+  }
+  
+  .blog-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .comment-views {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .blog-icon {
+    margin-right: 5px;
+  }
+  
+  .comment-count {
+    font-size: 14px;
+  }
+  
+  p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .author-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .blog-date {
+    font-size: 12px;
+    margin-right: 5px;
+  }
+  
+  .author {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .author-name {
+    font-size: 12px;
+  }
+  
+  .read-more {
+    margin-top: 10px;
+  }
+  
+  .blog-link {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: #333333;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Additional styles you can customize further */
+  
+  /* Add styling for mobile and responsive layout */
+  @media (max-width: 600px) {
+    .blog-container {
+      grid-template-columns: 1fr;
+    }
+  
+    .blog-ads {
+      max-width: 100%;
+    }
+  }
+  

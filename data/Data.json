@@ -1,0 +1,884 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Event 1",
+      "detail": "This is the detail for Event 1.",
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "date": "2023-10-03",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+      
+    },
+    {
+      "id": 2,
+      "name": "Event 2",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 30,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+        
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Event 3",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Event 4",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 40,
+      "duration": 5,
+      "date": "2023-07-31",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Event 5",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 100,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Event 6",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 45,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Event 7",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 60,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Event 8",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 150,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Event 9",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 120,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Event 10",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 100,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Event 11",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 90,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Event 12",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 200,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Event 13",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 500,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Event 14",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Event 15",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Event 16",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Event 17",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Event 18",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Event 19",
+      "detail": "This is the detail for Event 1.",
+      "address": "Kathmandu, Nepal",
+      "price": 50,
+      "duration": 5,
+      "description": "Step into a world of wonder and magic at Enchanted Gardens: A Symphony of Nature, an extraordinary event that promises to immerse you in the beauty and splendor of nature like never before. This enchanting gathering is a celebration of the natural world, artfully curated to ignite your senses and inspire a profound connection with the environment.",
+      "date": "2023-07-31",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "genre": "Drama",
+      "price":[50,30],
+      "year": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "genre": "Crime, Drama",
+      "year": 1972,
+      "price":[100,50],
+      "director": "Francis Ford Coppola",
+      "rating": 9.2,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "genre": "Action, Crime, Drama",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "price":[30],
+      "rating": 9
+      ,"user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "genre": "Crime, Drama",
+      "year": 1994,
+      "price":60,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Fight Club",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "genre": "Drama",
+      "year": 1999,
+      "price":20,
+      "director": "David Fincher",
+      "rating": 8.8,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "genre": "Drama, Romance",
+      "year": 1994,
+      "price":35,
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Inception",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "genre": "Action, Adventure, Sci-Fi",
+      "price":550,
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.7,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "genre": "Action, Sci-Fi",
+      "year": 1999,
+      "price":10,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings: The Return of the King",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "genre": "Action, Adventure, Drama",
+      "year": 2003,
+      "price":65,
+      "director": "Peter Jackson",
+      "rating": 8.9,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Silence of the Lambs",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "genre": "Crime, Drama, Thriller",
+      "year": 1991,
+      "price":50,
+      "director": "Jonathan Demme",
+      "rating": 8.6,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "image": "../../../assets/images/1_carousel.jpg ",
+      "genre": "Action, Adventure, Drama",
+      "year": 2000,
+      "price":90,
+      "director": "Ridley Scott",
+      "rating": 8.5,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Departed",
+      "image": "../../../assets/images/2_carousel.jpg ",
+      "genre": "Crime, Drama, Thriller",
+      "year": 2006,
+      "price":100,
+      "director": "Martin Scorsese",
+      "rating": 8.5,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Prestige",
+      "image": "../../../assets/images/4_carousel.jpg ",
+      "genre": "Drama, Mystery, Sci-Fi",
+      "year": 2006,
+      "price":50,
+      "director": "Christopher Nolan",
+      "rating": 8.5,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Interstellar",
+      "image": "../../../assets/images/3_carousel.jpg ",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "year": 2014,
+      "price":40,
+      "director": "Christopher Nolan",
+      "rating": 8.6,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Green Mile",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "genre": "Crime, Drama, Fantasy",
+      "year": 1999,
+      "price":50,
+      "director": "Frank Darabont",
+      "rating": 8.6,
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg "
+      ]
+    }
+  ],
+  "sports": [
+    {
+      "id": 1,
+      "name": "2023 Summer Olympics",
+      "sport": "Various",
+      "location": "Paris, France",
+      "date": "2023-07-28",
+      "image": "../../../assets/images/5_carousel.jpg ",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+
+
+    },
+    {
+      "id": 2,
+      "name": "2023 FIFA Women's World Cup",
+      "sport": "Soccer",
+      "location": "Australia & New Zealand",
+      "image": "../../../assets/images/3_carousel.jpg ",
+
+      "startDate": "2023-09-10",
+      "endDate": "2023-10-20",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 3,
+      "name": "2023 NBA Finals",
+      "sport": "Basketball",
+      "location": "Various",
+      "startDate": "2023-06-02",
+      "image": "../../../assets/images/5_carousel.jpg ",
+
+      "endDate": "2023-06-18",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 4,
+      "name": "2023 Wimbledon Championships",
+      "sport": "Tennis",
+      "location": "London, UK",
+      "startDate": "2023-07-03",
+      "image": "../../../assets/images/3_carousel.jpg ",
+
+      "endDate": "2023-07-16",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 5,
+      "name": "2023 Tour de France",
+      "sport": "Cycling",
+      "location": "Various",
+      "startDate": "2023-06-26",
+      "endDate": "2023-07-18",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 6,
+      "name": "2023 Rugby World Cup",
+      "sport": "Rugby",
+      "location": "France",
+      "startDate": "2023-09-08",
+      "endDate": "2023-10-28",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 7,
+      "name": "2023 Formula 1 World Championship",
+      "sport": "Formula 1",
+      "location": "Various",
+      "startDate": "2023-03-26",
+      "endDate": "2023-11-26",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 8,
+      "name": "2023 Super Bowl",
+      "sport": "American Football",
+      "location": "TBD",
+      "startDate": "2023-02-05",
+      "endDate": "2023-02-05",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 9,
+      "name": "2023 ICC Cricket World Cup",
+      "sport": "Cricket",
+      "location": "India",
+      "startDate": "2023-02-09",
+      "endDate": "2023-03-26",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    },
+    {
+      "id": 10,
+      "name": "2023 Winter X Games",
+      "sport": "Extreme Sports",
+      "location": "Aspen, Colorado, USA",
+      "startDate": "2023-01-26",
+      "endDate": "2023-01-29",
+      "user_images": [
+        "../../../assets/images/1_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/3_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg ",
+        "../../../assets/images/4_carousel.jpg ",
+        "../../../assets/images/2_carousel.jpg "
+       
+      ]
+    }
+  ]
+}

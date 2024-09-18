@@ -1,0 +1,28 @@
+html, body,#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  height: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Arimo', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#fff !important;;
+
+
+  
+
+}
+a{
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
